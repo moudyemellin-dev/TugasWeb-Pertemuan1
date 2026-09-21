@@ -1,4 +1,4 @@
-# Tugas Web Pertemuan 1 Landing Page
+# Tugas Rutin 1 Pemrograman Web Landing Page
 
 Repository ini berisi Tugas Rutin Pertemuan 1 mata kuliah Pemrograman Web.
 
