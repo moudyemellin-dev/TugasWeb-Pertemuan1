@@ -21,4 +21,4 @@ Pemrograman Web
 
 ## Link Demo
 
-🌐 [Buka Website Tugas 1](https://moudyemellin-dev.github.io/pemrograman-web/Pertemuan%201/)
+🌐 [Buka Website Tugas 1 Landing Page](https://moudyemellin-dev.github.io/pemrograman-web/Pertemuan%201/)
