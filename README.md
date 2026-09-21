@@ -18,3 +18,7 @@ Tugas ini merupakan pembuatan landing page sederhana menggunakan HTML sebagai da
 ## Mata Kuliah
 
 Pemrograman Web
+
+## Link Demo
+
+🌐 [Buka Website Tugas 1](https://moudyemellin-dev.github.io/pemrograman-web/Pertemuan%201/)
